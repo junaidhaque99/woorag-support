@@ -1,4 +1,4 @@
-# WooRAG Support – 4 Week Project Proposal
+# WooRAG Support – Project Proposal
 
 ## Project Title
 
